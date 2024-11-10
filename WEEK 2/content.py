@@ -1,3 +1,8 @@
+# List - Is created by placing items inside a []
+numbers = [1,2,3]
+print(numbers)
+
+
 # Tuples - Similar to list but placed in paranthesis
 # But tuples are immutable
 # eg var = ("hello")
